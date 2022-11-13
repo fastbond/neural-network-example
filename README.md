@@ -1,2 +1,2 @@
-# neural-network-example
-Basic neural network implementation
+# Basic neural network implementation
+Simple ANN to demo basics for a friend.  May expand later.
